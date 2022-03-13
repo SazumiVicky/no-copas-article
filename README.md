@@ -1,2 +1,2 @@
 # Use 
-<pre> "<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/SazumiVicky/no-copas-article@main/copas.css">" </pre>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/SazumiVicky/no-copas-article@main/copas.css">
